@@ -1,2 +1,2 @@
 # Web-First-Project
-Demonstrating my first project
+This is my first project craeting a front-end of a website using HTML and CSS
